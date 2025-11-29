@@ -13,7 +13,7 @@ The dashboard uses simple AI prompts, nostalgic visuals and childlike humour to 
 You can try the live project here:  
 👉 https://home-alone-security.vercel.app/
 
-![K.A.I Home Alone Dashboard](assets/kai-dashboard.png)
+![K.A.I Home Alone Dashboard](kai-dashboard.png)
 
 ---
 
